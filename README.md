@@ -88,24 +88,3 @@ GitHub: https://github.com/adarsh24Hub
 📄 License
 This is a personal project created for learning and demonstration purposes.
 
-yaml
-Copy code
-
----
-
-## 🔥 Why this README works (short logic)
-- Clean & professional (EY-safe)
-- Shows **architecture + performance thinking**
-- No fake claims (important for interviews)
-- Easy for recruiter to scan in **30 seconds**
-
----
-
-### Next?
-If you want, I can:
-- Add **screenshots section**
-- Optimize README for **ATS keywords**
-- Rewrite this for **resume bullet points**
-- Review your **Netlify live site**
-
-Just tell me 👉 **next step** 🚀
